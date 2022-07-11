@@ -1,0 +1,11 @@
+id: 01G7PQJJHGRBR6ZMAFDCF8QDW2
+description: ''
+expected: かもしれない
+patterns:
+  - かも知れない
+allows: []
+specs:
+  - from: かも知れない
+    to: かもしれない
+tags:
+  - opinion
