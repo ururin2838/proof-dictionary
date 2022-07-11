@@ -1,0 +1,11 @@
+id: 01G7QR4VJM3ADY62ZFZVCX9Z25
+description: ''
+expected: Notebook
+patterns:
+  - notebook
+allows: []
+specs:
+  - from: notebook
+    to: Notebook
+tags:
+  - noun
