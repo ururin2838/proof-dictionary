@@ -1,0 +1,11 @@
+id: 01G7QR4VJM3ADY62ZFZVCX9Z24
+description: ''
+expected: Everest
+patterns:
+  - everest
+allows: []
+specs:
+  - from: everest
+    to: Everest
+tags:
+  - noun
